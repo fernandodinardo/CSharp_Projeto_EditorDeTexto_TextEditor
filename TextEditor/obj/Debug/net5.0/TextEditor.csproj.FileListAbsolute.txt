@@ -1,0 +1,16 @@
+D:\devs\Csharp\BaltaIO\Projetos\TextEditor\bin\Debug\net5.0\TextEditor.exe
+D:\devs\Csharp\BaltaIO\Projetos\TextEditor\bin\Debug\net5.0\TextEditor.deps.json
+D:\devs\Csharp\BaltaIO\Projetos\TextEditor\bin\Debug\net5.0\TextEditor.runtimeconfig.json
+D:\devs\Csharp\BaltaIO\Projetos\TextEditor\bin\Debug\net5.0\TextEditor.runtimeconfig.dev.json
+D:\devs\Csharp\BaltaIO\Projetos\TextEditor\bin\Debug\net5.0\TextEditor.dll
+D:\devs\Csharp\BaltaIO\Projetos\TextEditor\bin\Debug\net5.0\TextEditor.pdb
+D:\devs\Csharp\BaltaIO\Projetos\TextEditor\obj\Debug\net5.0\TextEditor.csproj.AssemblyReference.cache
+D:\devs\Csharp\BaltaIO\Projetos\TextEditor\obj\Debug\net5.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\devs\Csharp\BaltaIO\Projetos\TextEditor\obj\Debug\net5.0\TextEditor.AssemblyInfoInputs.cache
+D:\devs\Csharp\BaltaIO\Projetos\TextEditor\obj\Debug\net5.0\TextEditor.AssemblyInfo.cs
+D:\devs\Csharp\BaltaIO\Projetos\TextEditor\obj\Debug\net5.0\TextEditor.csproj.CoreCompileInputs.cache
+D:\devs\Csharp\BaltaIO\Projetos\TextEditor\obj\Debug\net5.0\TextEditor.dll
+D:\devs\Csharp\BaltaIO\Projetos\TextEditor\obj\Debug\net5.0\refint\TextEditor.dll
+D:\devs\Csharp\BaltaIO\Projetos\TextEditor\obj\Debug\net5.0\TextEditor.pdb
+D:\devs\Csharp\BaltaIO\Projetos\TextEditor\obj\Debug\net5.0\TextEditor.genruntimeconfig.cache
+D:\devs\Csharp\BaltaIO\Projetos\TextEditor\obj\Debug\net5.0\ref\TextEditor.dll
